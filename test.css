@@ -1,3 +1,19 @@
+/* Dark theme for .App___StyledDiv-sc-10rfvzt-0.dxWvZz with green-blue */
+.App___StyledDiv-sc-10rfvzt-0.dxWvZz {
+    background-color: rgba(18, 18, 18, 1) !important; /* Dark background */
+    border-color: rgba(55, 65, 81, var(--tw-border-opacity)) !important; /* Dark gray border */
+    box-shadow: 0 0 10px rgba(16, 185, 129, 0.5); /* Subtle green-blue shadow */
+}
+
+/* Green-blue color adjustments for flex items with green border and background */
+.flex.items-center.border-l-8.text-gray-50.rounded-md.shadow.px-4.py-3.border-green-500.bg-green-500/25.my-4 {
+    background-color: rgba(16, 185, 129, 0.2) !important; /* Soft green-blue background */
+    border-color: rgba(16, 185, 129, 1) !important; /* Green-blue border */
+    color: #f9fafb !important; /* White text color for contrast */
+    box-shadow: 0 4px 8px rgba(16, 185, 129, 0.5); /* Green-blue shadow */
+}
+
+/* Retaining existing dark theme adjustments */
 .fDyLEe, 
 .fMiZow {
     border-color: rgba(55, 65, 81, var(--tw-border-opacity));
